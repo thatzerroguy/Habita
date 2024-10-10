@@ -14,6 +14,12 @@ module.exports = {
 			'Fog': "#FFDEEF",
 			'Eclipse': "#573353",
 		},
+		fontFamily: {
+			manropeRegular: ['Manrope_400Regular'],
+			manropeBold: ['Manrope_700Bold'],
+			manropeSemiBold: ['Manrope_600SemiBold'],
+			manropeMedium: ['Manrope_500Medium'],
+		},
 		extend: {
 		},
 	},
